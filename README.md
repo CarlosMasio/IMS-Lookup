@@ -1,7 +1,3 @@
-# IMS-Lookup
----
-
-```markdown
 # IMS Lookup 🔍📞
 
 **IMS Lookup** is a terminal-based phone number lookup tool built on leaked **IndiaMART** data. It allows you to query across multiple `.xlsx` databases and instantly retrieve matching information.
