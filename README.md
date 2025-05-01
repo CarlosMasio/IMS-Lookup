@@ -77,6 +77,3 @@ For help or access to the database:
 - DM on Instagram: [@ig.masio](https://instagram.com/ig.masio)
 
 ---
-```
-
-Would you like me to add license info or usage examples with sample output as well?
